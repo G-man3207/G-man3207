@@ -21,11 +21,14 @@ I like the unglamorous parts of reliability: kill-9 recovery, privacy/erasure, D
 
 ## Projects
 
-- 🧬 **[Kronik](https://github.com/G-man3207/Kronik)** — Deterministic application runtime for replaying production traffic, verifying changes, and running stateful Wasm actors.
 - 🛡️ **[Static](https://github.com/G-man3207/Static)** — Anti-fingerprinting Chrome/Firefox MV3 extension. Blocks FingerprintJS, DataDome, PerimeterX, FullStory, LogRocket, and friends. `⭐ 2`
+- 🧬 **[Kronik](https://github.com/G-man3207/Kronik)** — Deterministic application runtime for replaying production traffic, verifying changes, and running stateful Wasm actors.
+- 🎮 **[openshiftgames](https://github.com/G-man3207/openshiftgames)** — OpenShift Games: browser 3D OpenShift 4.22 / EX280 trainer. Play at [shifting.pro](https://shifting.pro).
 - 🚨 **[Valory-Hackathon](https://github.com/G-man3207/Valory-Hackathon)** — Kubernetes incident-response demo: four AI roles investigate real faults, request human approval, and verify recovery.
 
 ## Activity
+
+![G-man3207's GitHub stats](https://streak-stats.demolab.com/?user=G-man3207&theme=dark&hide_border=false)
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/G-man3207)
 
